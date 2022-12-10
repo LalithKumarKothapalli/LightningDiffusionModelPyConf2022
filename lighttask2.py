@@ -1,4 +1,5 @@
 # https://github.com/Lightning-AI-Dev/pyconf-hyd-2022
+# https://github.com/aniketmaurya/stable_diffusion_inference
 """Create a LightningFlow
 1. LightningFlow contains the work we created `TaskOne`
 2. In the run method execute the TaskOne work
